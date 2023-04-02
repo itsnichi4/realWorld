@@ -1,0 +1,31 @@
+{
+  "name": "realWorld",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnichi4/realWorld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnichi4/realWorld/issues"
+  },
+  "homepage": "https://github.com/itsnichi4/realWorld#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.0",
+    "file-loader": "^6.2.0",
+    "sass": "^1.43.2",
+    "sass-loader": "^12.4.0",
+    "vite": "^2.7.6"
+  },
+  "dependencies": {
+
+  }
+}
