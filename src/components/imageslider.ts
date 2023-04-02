@@ -1,4 +1,4 @@
-import { b } from "../../builder";
+import { b } from "../../lib/builder";
 
 interface ImageSliderProps {
   images: string[]; // An array of image URLs

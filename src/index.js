@@ -1,4 +1,4 @@
-import { createNavbar } from "../navbar";
+import { createNavbar } from "./components/navbar";
 import { createImageSlider } from "./components/imageslider";
 import { sliderProps } from "./components/imageslider";
 createNavbar();
